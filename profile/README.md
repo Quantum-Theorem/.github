@@ -31,5 +31,3 @@ Nosso objetivo é criar soluções eficientes, seguras e escaláveis, combinando
 - **Projetos bem documentados e testados**.
 - **Foco em segurança e compliance** para o setor financeiro.
 - **Código transparente e escalável**.
-
-Repositório mantido por **Quantum Theorem**.
