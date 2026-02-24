@@ -1,1 +1,1 @@
-# Quantum Theorem Microsystems and Research
+# Quantum Theorem Microsystems
